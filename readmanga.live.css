@@ -1,0 +1,12 @@
+/* readmanga.live */
+
+.navbar, .co_ba, .top_ba, .translator-control, .reader-controls, #twitts, .page-footer, .floating-page-indicator {
+    display: none !important;
+}
+
+/*
+#mangaPicture, .manga-img-placeholder, #fotocontext, #mangaBox {
+    width: 100% !important;
+    height: auto !important;
+}
+*/
