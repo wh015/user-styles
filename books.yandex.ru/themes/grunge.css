@@ -1,12 +1,7 @@
-/* https://books.yandex.ru/reader */
+/* theme settings for https://books.yandex.ru/reader */
 
 p, h1, h2, h3, h4, h5, h6 {
-    /* 0E0700, 070400 */
     color: #0E0700;
-}
-
-body, header, footer, p, h1, h2, h3, h4, h5, h6, html, #TEXTS_CONTAINER_WRAPPER {
-    background-color: transparent !important;
 }
 
 body, header, footer {

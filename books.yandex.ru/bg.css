@@ -1,0 +1,7 @@
+/* general transparent background settings for https://books.yandex.ru/reader */
+/* you need to get rid of Yandex built-in styles */
+
+body, header, footer, p, h1, h2, h3, h4, h5, h6, html, #TEXTS_CONTAINER_WRAPPER, [class^="ReaderLayout"] {
+    background-color: transparent !important;
+}
+
