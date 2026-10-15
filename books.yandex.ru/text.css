@@ -12,7 +12,3 @@ p:has(br) {
     padding-top: 0px !important;
 }
 
-[class^="AppPromoDesktopBanner_"] {
-    display: none !important;
-}
-
